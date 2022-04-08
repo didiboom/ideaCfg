@@ -1,0 +1,27 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="D:\Data\maven-repository" />
+            <option name="mavenHome" value="C:\ProgramFiles\apache-maven-3.5.4" />
+            <option name="userSettingsFile" value="C:\ProgramFiles\apache-maven-3.5.4\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectViewState">
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\dell\AppData\Roaming\Subversion</configuration>
+      </component>
+    </defaultProject>
+  </component>
+</application>
